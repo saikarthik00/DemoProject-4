@@ -1,0 +1,6 @@
+def numbers(s,e)
+  for i inrange(s,e+1)
+   print(i)
+s=int(input())
+e=int(input())
+numbers(s,e)
